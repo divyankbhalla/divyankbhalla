@@ -18,19 +18,19 @@ I am Divyank Bhalla. I am a Full Stack Developer
       </a>
       <a href="https://www.typescriptlang.org/">
         <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3629713-3030764.png" alt="TypeScript Icon" width="40">
-      </a> <br />
+      </a> 
       <a href="https://reactjs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt "React Icon" width="40">
       </a>
       <a href="https://angular.io/">
         <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular Icon" width="40">
-      </a>
+      </a><br/>
       <a href="https://nodejs.org/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js Icon" width="40">
       </a>
       <a href="https://www.java.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Icon" width="40">
-      </a> <br />
+      </a>
       <a href="https://www.mongodb.com/">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB Icon" width="40">
       </a>
